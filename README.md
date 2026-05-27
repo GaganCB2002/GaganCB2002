@@ -1,77 +1,102 @@
 <div align="center">
-  <h1>Hi 👋, I'm Gagan C B</h1>
-  <h3>A passionate Software Developer from Karnataka, India.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gagan%20C%20B&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Java%20|%20Machine%20Learning&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gagancb2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=flat" alt="Twitter" /></a>
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gagancb2002&theme=radical&margin-w=15" alt="Trophies" />
-  </a> 
-</p>
-
----
-
-### 👨‍💻 About Me
-
-Hi, my name is **Gagan C B**. I am from Davangere, Karnataka. I recently completed my Bachelor of Engineering in Computer Science from the Akshaya Institute of Technology.
-
-- 🎓 I have a strong foundation in **Java**, **HTML/CSS**, and **SQL**.
-- 💻 I have built projects like a **Student Management System** using Java.
-- 🌱 I’m currently learning and expanding my skills in **Python**, **Node.js**, and **React.js**.
-- 🚀 I’m a quick learner, always ready to take up new challenges, and excited to start my career and contribute positively to the tech industry.
-
----
-
-### 📫 Connect with Me
-
-- **Email:** gagancb2002@gmail.com
-- **LinkedIn:** [gagan-c-b-354882286](https://www.linkedin.com/in/gagan-c-b-354882286/)
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gagan-c-b-354882286/" target="blank">
+<div align="center">
+  <a href="https://linkedin.com/in/gagan-c-b-354882286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:gagancb2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
----
-
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-</p>
-
----
-
-### 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gagancb2002&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gagancb2002&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2780E3&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Lifelong+Learner;Java,+Python,+React" alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Gagan C B**, an enthusiastic Software Engineering graduate from **Akshaya Institute of Technology** based in Davangere, Karnataka. I am passionate about solving complex problems, building scalable applications, and diving deep into data science and machine learning.
+
+- 🎓 **Education:** B.E. in Computer Science and Engineering
+- 💼 **Goal:** Seeking a challenging role to leverage my technical skills and contribute to impactful projects.
+- 🌱 **Currently Exploring:** Python, Node.js, and React.js.
+- ⚡ **Fun Fact:** I love learning new technologies and am always ready to tackle a new challenge.
+
+---
+
+## 🚀 Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Student Management System** | A robust desktop application for managing student records, enrollment, and administrative data efficiently. | Java, MySQL |
+| **Data Science / ML Projects** | Various data analysis and machine learning exercises and implementations. | Python, Pandas, TensorFlow |
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gagancb2002&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gagancb2002&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gagancb2002&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gagancb2002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gagancb2002&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gagancb2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
